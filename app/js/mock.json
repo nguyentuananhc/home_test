@@ -1,0 +1,29 @@
+{
+  "suggestion": [
+    "{{repeat(4)}}",
+    {
+      "id": "{{index()}}",
+      "term": "top {{lorem(1, \"words\")}}",
+      "url": "http://term_url.com"
+    }
+  ],
+  "collection": [
+    "{{repeat(3)}}",
+    {
+      "id": "{{index()}}",
+      "title": "Tops {{lorem(1, \"words\")}}",
+      "url": "http://collection_url.com"
+    }
+  ],
+  "product": [
+    "{{repeat(3)}}",
+    {
+      "id": "{{index()}}",
+      "title": "top {{lorem(1, \"words\")}}",
+      "url": "http://term_url.com",
+      "brand": "{{company().toUpperCase()}}",
+      "Price": "{{floating(1000, 4000, 2, \"$0,0.00\")}}",
+      "image": "http://placehold.it/32x32"
+    }
+  ]
+}

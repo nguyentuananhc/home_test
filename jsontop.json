@@ -1,0 +1,67 @@
+{
+  "suggestion": [
+    {
+      "id": 0,
+      "term": "Top commodo",
+      "url": "http://term_url.com"
+    },
+    {
+      "id": 1,
+      "term": "Top mollit",
+      "url": "http://term_url.com"
+    },
+    {
+      "id": 2,
+      "term": "Top mollit",
+      "url": "http://term_url.com"
+    },
+    {
+      "id": 3,
+      "term": "Top eiusmod",
+      "url": "http://term_url.com"
+    }
+  ],
+  "collection": [
+    {
+      "id": 0,
+      "title": "Tops tempor",
+      "url": "http://collection_url.com"
+    },
+    {
+      "id": 1,
+      "title": "Tops dolor",
+      "url": "http://collection_url.com"
+    },
+    {
+      "id": 2,
+      "title": "Tops laboris",
+      "url": "http://collection_url.com"
+    }
+  ],
+  "product": [
+    {
+      "id": 0,
+      "title": "Top sint",
+      "url": "http://term_url.com",
+      "brand": "ACCRUEX",
+      "Price": "$1,430.92",
+      "image": "https://via.placeholder.com/60.png/09f/fff"
+    },
+    {
+      "id": 1,
+      "title": "Top do",
+      "url": "http://term_url.com",
+      "brand": "ZILLAR",
+      "Price": "$3,613.92",
+      "image": "https://via.placeholder.com/60.png/09f/fff"
+    },
+    {
+      "id": 2,
+      "title": "Top laborum",
+      "url": "http://term_url.com",
+      "brand": "JUMPSTACK",
+      "Price": "$3,930.93",
+      "image": "https://via.placeholder.com/60.png/09f/fff"
+    }
+  ]
+}

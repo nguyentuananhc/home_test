@@ -1,0 +1,67 @@
+{
+  "suggestion": [
+    {
+      "id": 0,
+      "term": "T veniam",
+      "url": "http://term_url.com"
+    },
+    {
+      "id": 1,
+      "term": "T enim",
+      "url": "http://term_url.com"
+    },
+    {
+      "id": 2,
+      "term": "T excepteur",
+      "url": "http://term_url.com"
+    },
+    {
+      "id": 3,
+      "term": "T irure",
+      "url": "http://term_url.com"
+    }
+  ],
+  "collection": [
+    {
+      "id": 0,
+      "title": "Tops elit",
+      "url": "http://collection_url.com"
+    },
+    {
+      "id": 1,
+      "title": "Tops irure",
+      "url": "http://collection_url.com"
+    },
+    {
+      "id": 2,
+      "title": "Tops tempor",
+      "url": "http://collection_url.com"
+    }
+  ],
+  "product": [
+    {
+      "id": 0,
+      "title": "T sint",
+      "url": "http://term_url.com",
+      "brand": "KNEEDLES",
+      "Price": "$1,257.02",
+      "image": "https://via.placeholder.com/60.png/09f/fff"
+    },
+    {
+      "id": 1,
+      "title": "T eiusmod",
+      "url": "http://term_url.com",
+      "brand": "MEDALERT",
+      "Price": "$3,780.36",
+      "image": "https://via.placeholder.com/60.png/09f/fff"
+    },
+    {
+      "id": 2,
+      "title": "T reprehenderit",
+      "url": "http://term_url.com",
+      "brand": "BLUPLANET",
+      "Price": "$3,173.02",
+      "image": "https://via.placeholder.com/60.png/09f/fff"
+    }
+  ]
+}

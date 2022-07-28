@@ -1,0 +1,67 @@
+{
+  "suggestion": [
+    {
+      "id": 0,
+      "term": "To duis",
+      "url": "http://term_url.com"
+    },
+    {
+      "id": 1,
+      "term": "To eu",
+      "url": "http://term_url.com"
+    },
+    {
+      "id": 2,
+      "term": "To magna",
+      "url": "http://term_url.com"
+    },
+    {
+      "id": 3,
+      "term": "To Lorem",
+      "url": "http://term_url.com"
+    }
+  ],
+  "collection": [
+    {
+      "id": 0,
+      "title": "Tops nostrud",
+      "url": "http://collection_url.com"
+    },
+    {
+      "id": 1,
+      "title": "Tops eiusmod",
+      "url": "http://collection_url.com"
+    },
+    {
+      "id": 2,
+      "title": "Tops commodo",
+      "url": "http://collection_url.com"
+    }
+  ],
+  "product": [
+    {
+      "id": 0,
+      "title": "To voluptate",
+      "url": "http://term_url.com",
+      "brand": "FUELTON",
+      "Price": "$3,082.99",
+      "image": "https://via.placeholder.com/60.png/09f/fff"
+    },
+    {
+      "id": 1,
+      "title": "To consectetur",
+      "url": "http://term_url.com",
+      "brand": "BOVIS",
+      "Price": "$3,616.48",
+      "image": "https://via.placeholder.com/60.png/09f/fff"
+    },
+    {
+      "id": 2,
+      "title": "To ullamco",
+      "url": "http://term_url.com",
+      "brand": "EARTHMARK",
+      "Price": "$1,529.01",
+      "image": "https://via.placeholder.com/60.png/09f/fff"
+    }
+  ]
+}
